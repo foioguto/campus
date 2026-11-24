@@ -1,9 +1,26 @@
+# Configuração local e credenciais
 .env
+.env.*
+!.env.example
+config/sources.json
+.streamlit/secrets.toml
+
+# Ambiente Python, caches e empacotamento
 .venv/
 __pycache__/
 *.py[cod]
 .pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
 *.egg-info/
-config/sources.json
+/build/
+/dist/
+.vscode/
+
+# Relatórios, backups e planilhas de origem locais
 reports/
-.streamlit/secrets.toml
+*.dump
+/data/**/*.xlsx
+!/data/dados_mockados_treinamento.xlsx
+!/data/demo/projetos_demo_*.xlsx
