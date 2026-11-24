@@ -4,6 +4,7 @@
 !.env.example
 config/sources.json
 .streamlit/secrets.toml
+.vscode/
 
 # Ambiente Python, caches e empacotamento
 .venv/
