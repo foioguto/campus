@@ -1,0 +1,5 @@
+{
+  "sources": [
+    {"file": "../data/dados_mockados_treinamento.xlsx", "year": 2026, "sheet": "PARECER EXTERNO 2026", "header_row": 1}
+  ]
+}

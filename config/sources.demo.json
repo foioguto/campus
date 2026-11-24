@@ -1,0 +1,28 @@
+{
+  "sources": [
+    {
+      "file": "../data/demo/projetos_demo_2022.xlsx",
+      "year": 2022,
+      "sheet": "PROJETOS DEMO 2022",
+      "header_row": 1
+    },
+    {
+      "file": "../data/demo/projetos_demo_2023.xlsx",
+      "year": 2023,
+      "sheet": "PROJETOS DEMO 2023",
+      "header_row": 1
+    },
+    {
+      "file": "../data/demo/projetos_demo_2024.xlsx",
+      "year": 2024,
+      "sheet": "PROJETOS DEMO 2024",
+      "header_row": 1
+    },
+    {
+      "file": "../data/demo/projetos_demo_2025.xlsx",
+      "year": 2025,
+      "sheet": "PROJETOS DEMO 2025",
+      "header_row": 1
+    }
+  ]
+}
